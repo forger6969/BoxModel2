@@ -1,0 +1,54 @@
+.header{
+    background-color: rgb(72, 184, 244);
+    padding: 6px;
+    width: 549px;
+    margin-left: 400px;
+}
+    
+    
+
+*{
+    color: white;
+    
+    
+}
+.main{
+    background-color: green;
+    width: 400px;
+    height: 200px;
+    margin-top: 10px;
+    
+}
+.sidebar{
+    background-color: rgb(149, 45, 240);
+    width: 150px;
+    height: 200px;
+    margin-top: 10px;
+}
+.twin{
+    background-color: orange;
+    width: 275px;
+    height: 150px;
+    text-align: center;
+
+}
+.footer{
+    background-color: blue;
+ padding: 6px;
+    width: 549px;
+    margin-left: 400px;
+    margin-top: 10px;
+
+}
+.ota{
+    text-align: center;
+    display: flex;
+    gap: 10px;
+    margin-left: 400px;
+}
+.ota2{
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+     margin-left: 400px;
+}
